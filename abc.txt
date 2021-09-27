@@ -1,1 +1,1 @@
-this is from sample text file
+this is from git files
